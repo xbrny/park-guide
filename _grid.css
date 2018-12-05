@@ -1,0 +1,18 @@
+.container {
+  max-width: 960px;
+}
+.cf:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+@media (min-width: 769px) {
+  .row {
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+  }
+  .col {
+    display: table-cell;
+  }
+}

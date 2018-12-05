@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+html {
+  font-family: 'Poppins', sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+.fs-xs {
+  font-size: 0.7rem;
+}
+.fs-sm {
+  font-size: 0.8rem;
+}
+.fs-rg {
+  font-size: 1rem;
+}
+.fs-md {
+  font-size: 1.2rem;
+}
+.fs-lg {
+  font-size: 1.8rem;
+}
+.mt-xl {
+  font-size: 2rem;
+}
+.mt-xxl {
+  font-size: 2.5rem;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+@media (max-width: 768px) {
+  .mob-fs-xs {
+    font-size: 0.7rem;
+  }
+  .mob-fs-sm {
+    font-size: 0.8rem;
+  }
+  .mob-fs-rg {
+    font-size: 1rem;
+  }
+  .mob-fs-md {
+    font-size: 1.2rem;
+  }
+  .mob-fs-lg {
+    font-size: 1.8rem;
+  }
+  .mob-mt-xl {
+    font-size: 2rem;
+  }
+  .mob-mt-xxl {
+    font-size: 2.5rem;
+  }
+  .mob-center {
+    text-align: center;
+  }
+  .mob-right {
+    text-align: right;
+  }
+  .mob-left {
+    text-align: left;
+  }
+}
