@@ -238,6 +238,17 @@ a:hover {
 .activity-link:hover {
   color: #fff;
 }
+.self-intro-bar {
+  padding: 10px;
+  background-color: #eeeeee;
+  border-bottom: 1px solid #dddddd;
+  text-align: center;
+}
+.copyright a {
+  color: #eee;
+  font-size: 14px;
+  border-bottom: 1px dotted #eee;
+}
 @media (max-width: 768px) {
   .activity-link {
     margin: 0px;
