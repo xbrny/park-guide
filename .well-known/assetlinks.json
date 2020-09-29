@@ -4,8 +4,8 @@
       "delegate_permission/common.handle_all_urls"
     ],
     "target": {
-      "namespace": "deep_link_app_link",
-      "package_name": "com.bitbani",
+      "namespace": "android_app",
+      "package_name": "com.bitbani.deep_link_app_link",
       "sha256_cert_fingerprints": [
         "B8:F6:D3:6D:7F:F4:32:9F:C5:CC:0A:CF:A6:6F:9B:60:F6:5F:C2:6C:26:87:75:46:2C:03:5B:FE:BF:43:B7:CB"
       ]
